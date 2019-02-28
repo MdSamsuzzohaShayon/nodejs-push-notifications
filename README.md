@@ -12,12 +12,12 @@
 
 ## web-push
 
-***Web push requires that push messages triggered from a backend be done via the Web 
+*Web push requires that push messages triggered from a backend be done via the Web 
 Push Protocol and if you want to send data with your push message, you must also 
 encrypt that data according to the Message Encryption for Web Push spec.
 
 This module makes it easy to send messages and will also handle legacy support 
-for browsers relying on GCM for message sending / delivery.***
+for browsers relying on GCM for message sending / delivery.*
 
 ```npm install web-push```
 
